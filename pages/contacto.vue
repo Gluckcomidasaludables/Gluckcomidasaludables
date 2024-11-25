@@ -66,6 +66,7 @@ export default {
     height: 100vh;
     width: 100%;
     background-color: #b9f0e4;
+    color: black;
 }
 .contact-section {
     width: 600px;
