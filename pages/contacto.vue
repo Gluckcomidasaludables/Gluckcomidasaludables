@@ -38,7 +38,7 @@ export default {
         }
     },
     mounted() {
-        emailjs.init('ZEVGWNecg7uT5v8IV');
+        emailjs.init('ZlZz5K-prGUlNdILj');
         const btn = document.getElementById('button');
         document.getElementById('form').addEventListener('submit', function(event) {
             event.preventDefault();
