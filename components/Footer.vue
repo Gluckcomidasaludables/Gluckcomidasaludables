@@ -50,6 +50,10 @@ p{
         height: 110px;
     }
 
+    p{
+        padding: 0 0 15px 0;
+    }
+
 }
 
 </style>
