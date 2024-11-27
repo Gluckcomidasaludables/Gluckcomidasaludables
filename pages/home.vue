@@ -129,7 +129,6 @@
     height: 100%;
     background-color: rgb(0, 170, 173); 
     width: 100%;
-    min-width: 490px; 
 }
 
 /* Clase para el espaciador */
@@ -417,6 +416,19 @@ h4{
     color: black;
     font-weight: 800;
     margin-bottom: 5px;
+}
+
+@media (max-width: 370px) {
+    .article-1{
+        width: 100%;
+    }
+}
+
+@media (max-width: 400px) {
+    .small-image .plato{
+        display: flex;
+        flex-direction: column-reverse;
+    }
 }
 
 /* Responsivo: En pantallas pequeñas, todo en bloque */
