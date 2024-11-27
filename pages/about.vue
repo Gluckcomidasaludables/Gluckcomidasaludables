@@ -206,6 +206,10 @@ article {
 
 
 @media (max-width:770px) {
+    .section-header{
+        margin-left: 0;
+    }
+    
     article {
         grid-template-columns: 1fr; /* Cambia a una sola columna */
         gap: 20px; /* Espaciado más amplio */
@@ -214,5 +218,7 @@ article {
     .info{
         margin: 0;
     }
+
+
 }
 </style>
