@@ -88,6 +88,9 @@ button{
     .navbar-nav{
         padding-left:20px ;
     }
+    li{
+        padding: 0 0 0 10px;
+    }
 }
 
 </style>
