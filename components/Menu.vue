@@ -41,6 +41,7 @@ import { NuxtLink } from '../.nuxt/components';
 <style scoped>
 .content{
     overflow:hidden;
+
 }
 
 /* Estilo para el navbar */
@@ -77,6 +78,10 @@ ul{
 
 .social-icon:hover {
     color: rgb(96, 217, 219);
+}
+
+button{
+    margin-right: 20px;
 }
 
 </style>
