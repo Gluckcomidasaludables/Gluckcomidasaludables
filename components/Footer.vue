@@ -41,12 +41,13 @@ p{
 
 @media (max-width:350px) {
     footer{
-        height: 100%;
+        height: 110px;
     }
 
     .sectio-2{
         padding: 5px 10px 0 0 ;
         width: 100%;
+        height: 110px;
     }
 
 }
