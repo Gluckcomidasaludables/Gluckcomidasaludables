@@ -261,7 +261,7 @@
 
 .article-1{
     width: 350px;
-    height: 200px;
+    height: 100%;
     background-color: white;
     margin: 40px 0 50px 0;
     padding: 20px;
@@ -421,7 +421,6 @@ h4{
 @media (max-width: 370px) {
     .article-1{
         width: 100%;
-        height: 100%;
     }
 }
 
