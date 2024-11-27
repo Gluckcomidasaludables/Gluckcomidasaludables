@@ -84,7 +84,7 @@
                 </div>
             </article>
             <article class="article-3">
-                <p style="padding: 0 10px 0 10px;">"Transforma tu comida en una experiencia saludable : disfruta de plato <br>
+                <p style="padding: 0 10px 0 10px;">"Transforma tu comida en una experiencia saludable : disfruta de platos <br>
                 nutritivos que no solo saben increible, sino que tambien te hacen sentir increible. " 
                 </p>
             </article>
