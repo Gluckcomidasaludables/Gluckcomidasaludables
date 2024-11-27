@@ -51,7 +51,7 @@
 
 <style scoped>
 .todo{
-    min-width: 510px; /* Asegura que no se reduzca demasiado */
+    min-width: none; /* Asegura que no se reduzca demasiado */
     color: white;
 }
 /* Estilo general para la sección de contenido */
