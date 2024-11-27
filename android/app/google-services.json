@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "357881281631",
+    "project_id": "gluck-20cfb",
+    "storage_bucket": "gluck-20cfb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357881281631:android:8392946f6f49d8f0d9efea",
+        "android_client_info": {
+          "package_name": "com.gluck.nuxt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp-RmGCj7wabmW2E09LGfEMxYovDZlRvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357881281631:android:807ace5236c5a014d9efea",
+        "android_client_info": {
+          "package_name": "com.jeronimo.gluck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp-RmGCj7wabmW2E09LGfEMxYovDZlRvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Gluck</string>
+    <string name="title_activity_main">Gluck</string>
+    <string name="package_name">com.gluck.nuxt</string>
+    <string name="custom_url_scheme">com.gluck.nuxt</string>
+</resources>
