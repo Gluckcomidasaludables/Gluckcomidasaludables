@@ -421,6 +421,7 @@ h4{
 @media (max-width: 370px) {
     .article-1{
         width: 100%;
+        height: 100%;
     }
 }
 
