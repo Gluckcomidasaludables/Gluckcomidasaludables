@@ -210,7 +210,9 @@ article {
         grid-template-columns: 1fr; /* Cambia a una sola columna */
         gap: 20px; /* Espaciado más amplio */
         padding: 20px; /* Reduce el padding */
-
-}
+    }
+    .info{
+        margin: 0;
+    }
 }
 </style>
