@@ -5,6 +5,7 @@
         
         <!-- Imagen de encabezado -->
         <img 
+            src="../assets/about/imagen1.avif" 
             alt="Imagen de portada" 
             style="width: 100vw; height: 300px; object-fit: cover; min-width:510px;"
         />
@@ -12,7 +13,7 @@
         <!-- Sección de contenido principal -->
         <section class="content">
             <div class="section-header">
-                <h1>ACERCA DE...</h1>
+                <h1>ACERCA DE......</h1>
             </div>
             <article>
 
