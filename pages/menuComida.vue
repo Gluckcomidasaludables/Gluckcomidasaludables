@@ -160,7 +160,7 @@ import { Footer } from '../.nuxt/components';
                                     </article>
 
                                     <article class="d-flex" style="width:100%; justify-content: space-between;">
-                                        <label for="opcion4">Rex</label>
+                                        <label for="opcion4">Res</label>
                                         <input type="checkbox" id="opcion4" name="opciones" value="opcion1">
                                     </article>
                                     <article class="d-flex" style="width:100%; justify-content: space-between;">
