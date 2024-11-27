@@ -53,6 +53,7 @@
 .todo{
     min-width: none; /* Asegura que no se reduzca demasiado */
     color: white;
+    overflow: hidden;
 }
 /* Estilo general para la sección de contenido */
 .content {
