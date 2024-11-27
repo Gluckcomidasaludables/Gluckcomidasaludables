@@ -23,7 +23,7 @@ footer{
     background-color: rgb(215, 120, 87);
     display: flex;
     justify-content: space-between;
-    height: 100px;
+    height: 100%;
     width:100%;
 }
 img{
