@@ -84,4 +84,10 @@ button{
     margin-right: 20px;
 }
 
+@media (max-width:990) {
+    .navbar-nav{
+        padding-left:20px ;
+    }
+}
+
 </style>
