@@ -39,6 +39,10 @@ import { NuxtLink } from '../.nuxt/components';
 </template>
 
 <style scoped>
+.content{
+    overflow:hidden;
+}
+
 /* Estilo para el navbar */
 nav {
     background-color: rgb(251, 231, 93); /* Color de fondo */
