@@ -1,3 +1,4 @@
+import { Footer } from '../.nuxt/components';
 <template>
     <footer >
         <section>
@@ -36,6 +37,12 @@ p{
     color: white;
     text-align: end;
     font-size: 10px;
+}
+
+@media (max-width:350px) {
+    footer{
+        height: 150px;
+    }
 }
 
 </style>
