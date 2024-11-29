@@ -57,6 +57,10 @@ ul{
     gap: 20px;
 }
 
+.nav-item{
+    padding-left:10px;
+}
+
 /* Aplica negrita a todos los enlaces del navbar */
 .nav-link {
     font-weight: 700; /* Negrita */
