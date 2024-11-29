@@ -379,7 +379,7 @@ h4{
 .campo{
     color: white;
     padding-left: 10px;
-    height: 500px;
+    height: 300px;
     align-content: center;
 }
 
