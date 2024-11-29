@@ -319,15 +319,15 @@ h4{
 
 .platillos{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     gap: 40px;
     padding: 0 10px 0 10px;
 }
 
 .platillos article{
     background-image: url("../assets/home/seccion2/plato.png");
-    width: 100%;
-    height: 400px;
+    height: 200px;
+    aspect-ratio: 1 / 1;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -338,9 +338,8 @@ h4{
 
 .platillos article p{
     background:rgb(218, 215, 215, .8);
-    padding: 20px 0;
-    height: 100px;
-    margin-top: 100px;
+    height: 60px;
+    margin-top: 40px;
     color: white;
 }
 
